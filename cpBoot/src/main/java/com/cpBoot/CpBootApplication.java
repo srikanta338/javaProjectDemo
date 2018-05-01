@@ -9,5 +9,6 @@ public class CpBootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CpBootApplication.class, args);
 		System.out.println("done");
+		System.out.println("simple test");
 	}
 }
